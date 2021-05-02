@@ -46,6 +46,4 @@ set GOOGLE_APPLICATION_CREDENTIALS=<path to google.json>
 ```sh
 npm start
 ```
-# yelp-test-public
-# yelp-test-public
-# yelp-test-public
+
