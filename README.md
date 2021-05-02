@@ -24,6 +24,10 @@ Install the dependencies and devDependencies and start the server.
 cd yelp-test
 npm i
 ```
+## Google API
+
+Use the attached file (api-credentials/google.json) for the API key or just create your own API using this [link](https://cloud.google.com/docs/authentication/production)
+
 
 ### Google API Setup MacOS
 
